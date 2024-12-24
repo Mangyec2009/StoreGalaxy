@@ -56,7 +56,7 @@ const Header = () => {
                             onMouseEnter={() => setActiveCategory(el.id)}
                             onMouseLeave={() => setActiveCategory(null)}
                             >
-                            <div onClick={() => {router.push(`/category/${el.id}`), getProd("CategoryId", el.id)}}>
+                            <div onClick={async () => {router.push(`/category/${el.id}`), await getProd("CategoryId", el.id)}}>
                                 <MenubarSubTrigger>{el.categoryName}</MenubarSubTrigger>
                             </div>
                             <MenubarSubContent className="bg-[#5470ff]">
