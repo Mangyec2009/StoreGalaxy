@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Yusufdf"
+    },
+    {
+      "id": "2",
+      "name": "Amin",
+      "surname": "jalilow",
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "Usmon",
+      "surname": "Ibragimov",
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "Akhmed",
+      "surname": "Wengalbi",
+      "status": false
+    },
+    {
+      "id": "6",
+      "name": "Nursultan",
+      "surname": "Shakirov",
+      "status": false
+    },
+    {
+      "id": "1734352415722",
+      "name": "hahah",
+      "surname": "ayupovich",
+      "status": false
+    },
+    {
+      "id": "1734352583349",
+      "name": "asdasdasdas",
+      "surname": "ayupovich",
+      "status": false
+    }
+  ]
+}
